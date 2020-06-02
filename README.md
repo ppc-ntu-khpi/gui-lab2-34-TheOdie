@@ -6,4 +6,4 @@
 2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
 
 ## Результат роботи програми
-<img src="" width="40%"/>
+<img src="https://github.com/ppc-ntu-khpi/gui-lab2-34-TheOdie/blob/master/report.PNG?raw=true" width="40%"/>
